@@ -28,20 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.SuspendLayout();
-            // 
-            // loginForm
-            // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(301, 333);
-            this.Name = "loginForm";
-            this.Text = "Login";
-            this.ResumeLayout(false);
-
+            this.Text = "loginForm";
         }
 
         #endregion
     }
 }
-
