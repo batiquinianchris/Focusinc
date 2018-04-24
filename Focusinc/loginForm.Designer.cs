@@ -134,7 +134,7 @@
             this.panel1.Controls.Add(this.password);
             this.panel1.Controls.Add(this.username);
             this.panel1.Controls.Add(this.pictureBox1);
-            this.panel1.Location = new System.Drawing.Point(406, 251);
+            this.panel1.Location = new System.Drawing.Point(406, 220);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1069, 574);
             this.panel1.TabIndex = 5;
