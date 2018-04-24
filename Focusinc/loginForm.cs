@@ -36,5 +36,12 @@ namespace Focusinc
         {
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            menu menu = new Focusinc.menu();
+            menu.Show();
+            this.Hide();
+        }
     }
 }
